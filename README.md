@@ -1,10 +1,10 @@
 # Demo
 
-some description !
+some description!
 
 ## Subheader
 
-Watch tutorial on Youtube.
+Watch tutorial on Youtube
 
 
 
